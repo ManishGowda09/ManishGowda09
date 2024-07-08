@@ -1,3 +1,7 @@
+
+![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/ManishGowda09/ManishGowda09/assets/124987166/601b3cdb-3508-42e7-ac71-9cfe543dbe42)
+
+
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics, I'm a skilled Electronics and Communication Engineer with a focus on PCB design. My proficiency in ThinkerCAD, Simulink, Python, and C programming allows me to seamlessly integrate hardware and software for efficient and optimized embedded systems. Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.</h3>
 
