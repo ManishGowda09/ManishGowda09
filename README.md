@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **HTML , Python , C++ ,CSS**
 
-- Completed Projects **Chat bot for Carbon Footprint Calculator , IOT Based Low cost gas detector , IOT based Smart Irrigation System**
+- Completed Projects : **Chat bot for Carbon Footprint Calculator , IOT Based Low cost gas detector , IOT based Smart Irrigation System**
 
 - 👨‍💻 All of my projects are available at [https://manish09.netlify.app/](https://manish09.netlify.app/)
 
 - 📫 How to reach me **manishgowda2k3@gmail.com**
 
-- ⚡ About Me  **Hard Work and Creative thinking**
+- ⚡ About Me : **Hard Work and Creative thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,4 +64,4 @@
 </div>
 
 
-![snake gif](https://github.com/ManishGowda09/ManishGowda09/blob/output/github-contribution-grid-snake.svg)
+
