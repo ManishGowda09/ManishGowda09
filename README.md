@@ -1,5 +1,6 @@
 
-![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/ManishGowda09/ManishGowda09/assets/124987166/601b3cdb-3508-42e7-ac71-9cfe543dbe42)
+![230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c](https://github.com/ManishGowda09/ManishGowda09/assets/124987166/0dd68841-2683-4c3e-858a-75f5edb1bd33)
+
 
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
