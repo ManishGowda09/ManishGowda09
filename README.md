@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics, I'm a skilled Electronics and Communication Engineer with a focus on PCB design. My proficiency in ThinkerCAD, Simulink, Python, and C programming allows me to seamlessly integrate hardware and software for efficient and optimized embedded systems. Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.</h3>
+<h3 align="center">An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics.Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishgowda09&label=Profile%20views&color=0e75b6&style=flat" alt="manishgowda09" /> </p>
 
@@ -62,8 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manishgowda09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishgowda09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<div align="center">
-  <img height="200" src="https://i.gifer.com/1ktC.gif" />
-</div>
+
 
 ![snake gif](https://github.com/ManishGowda09/ManishGowda09/blob/output/github-contribution-grid-snake.svg)
