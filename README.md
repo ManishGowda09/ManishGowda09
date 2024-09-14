@@ -14,7 +14,7 @@
 
 - Completed Projects : **Chat bot for Carbon Footprint Calculator , IOT Based Low cost gas detector , IOT based Smart Irrigation System**
 
-- 👨‍💻 All of my projects are available at [https://manish09.netlify.app/](https://manish09.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manishgowda09.github.io/portfolio//](https://manishgowda09.github.io/portfolio//)
 
 - 📫 How to reach me **manishgowda2k3@gmail.com**
 
