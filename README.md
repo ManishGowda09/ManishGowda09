@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Automated Solar Panel Cleaning System**
 
-- 🌱 I’m currently learning **HTML , Python , C++ ,CSS**
+- 🌱 I’m currently learning **HTML , Python , C++ **
 
 - Completed Projects : **Chat bot for Carbon Footprint Calculator , IOT Based Low cost gas detector , IOT based Smart Irrigation System**
 
