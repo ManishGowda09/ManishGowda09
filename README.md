@@ -62,7 +62,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishGowda09&theme=radical&radius=10" alt="ManishGowda09's Activity Graph" />
 </p>
 
-
+<p align="center">
 ![Top language](https://stats.pphat.top/languages?username=ManishGowda09)
 <br/>
 
