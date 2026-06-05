@@ -10,9 +10,26 @@
 
 ## 📌 About Me
 - An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics.Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.
+- Currently exploring RTL Design, Verification, FPGA Development, and Physical Design flows.
+- Strong problem-solving mindset with a passion for learning emerging semiconductor technologies.
 
+📫 Email: **manishgowda2k3@gmail.com**
+## 🛠️ Technical Skills
 
-- 📫 How to reach me **manishgowda2k3@gmail.com**
+### Hardware & Electronics
+- PCB Design
+- Schematic Capture
+- Component Selection
+- Digital Electronics
+- Analog Electronics
+- Embedded Systems
+
+### VLSI
+- Verilog HDL
+- RTL Design
+- FPGA Design
+- Digital Logic Design
+- Timing Analysis
 
 
 <h3 align="left">Connect with me:</h3>
