@@ -1,19 +1,16 @@
-![230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c](https://github.com/ManishGowda09/ManishGowda09/assets/124987166/0dd68841-2683-4c3e-858a-75f5edb1bd33)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Manish%20Gowda&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=VLSI%20Engineer%20%7C%20PCB%20Designer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ManishGowda09">
+    <img src="https://komarev.com/ghpvc/?username=ManishGowda09&label=Profile%20views&color=00FFFF&style=flat-square" alt="ManishGowda09's profile views" />
+  </a>
+</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics.Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.</h3>
+## 📌 About Me
+- An Electronics and Communication Engineer from India , Looking to contribute to the creation of groundbreaking electronics.Committed to continuous learning, I'm a results-oriented engineer with a passion for tackling complex challenges and developing innovative solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishgowda09&label=Profile%20views&color=0e75b6&style=flat" alt="manishgowda09" /> </p>
-
-- 🔭 I’m currently working on **Automated Solar Panel Cleaning System**
-
-- 🌱 I’m currently learning **HTML , Python , C++ **
-
-- Completed Projects : **Chat bot for Carbon Footprint Calculator , IOT Based Low cost gas detector , IOT based Smart Irrigation System**
-
-- 👨‍💻 All of my projects are available at [https://manishgowda09.github.io/portfolio//](https://manishgowda09.github.io/portfolio//)
 
 - 📫 How to reach me **manishgowda2k3@gmail.com**
 
@@ -27,14 +24,15 @@
 </p>
 <br clear="both">
 
+
+
+
 <h4 align="left">Languages and Tools :</h4>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
@@ -46,13 +44,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="40" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
