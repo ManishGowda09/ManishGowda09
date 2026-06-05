@@ -52,19 +52,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishGowda09&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ManishGowda09">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManishGowda09&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ManishGowda09's GitHub Stats" />
-  </a>
+## GitHub Activity
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishGowda09&theme=radical&radius=10" alt="ManishGowda09's Activity Graph" />
 </p>
 
-
 <p align="center">
-  <img src="https://stats.pphat.top/languages?username=ManishGowda09" alt="Top language" width="500" />
+  <img src="https://stats.pphat.top/languages?username=ManishGowda09" alt="Top language" />
 </p>
 
 <p align="center">
