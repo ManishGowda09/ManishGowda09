@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **manishgowda2k3@gmail.com**
 
-- ⚡ About Me : **Hard Work and Creative thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +44,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 
 
@@ -54,15 +52,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishGowda09&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
+## GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ManishGowda09">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManishGowda09&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ManishGowda09's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishGowda09&theme=radical&radius=10" alt="ManishGowda09's Activity Graph" />
+</p>
 
 
-<hr style="border:0.5px solid yellow;">
+![Top language](https://stats.pphat.top/languages?username=ManishGowda09)
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <div align="center">
-    <div align="center"> 
-        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=+MY+CONTRIBUTIONS+" alt="my github stats svg" />
-    </div>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ManishGowda09/ManishGowda09/output/github-contribution-grid-snake-dark.svg" />
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-<hr style="border:0.5px solid yellow;">
+
