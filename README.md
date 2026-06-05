@@ -62,10 +62,10 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishGowda09&theme=radical&radius=10" alt="ManishGowda09's Activity Graph" />
 </p>
 
-<div align="center">
-![Top language](https://stats.pphat.top/languages?username=ManishGowda09)
-<br/>
-</div>
+
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=ManishGowda09" alt="Top language" width="500" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
