@@ -22,14 +22,15 @@
 - Component Selection
 - Digital Electronics
 - Analog Electronics
-- Embedded Systems
+
 
 ### VLSI
+- Analog Design
+- Layout
 - Verilog HDL
 - RTL Design
 - FPGA Design
-- Digital Logic Design
-- Timing Analysis
+
 
 
 <h3 align="left">Connect with me:</h3>
