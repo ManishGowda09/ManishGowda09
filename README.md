@@ -53,15 +53,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://github.com/user-attachments/assets/83fb2bf4-8c3d-43ed-8807-ff76252de01b" height="40" alt="xschem logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/e766fe92-f233-4783-a255-988a261ec67f" height="40" alt="klayout logo"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/43a4be54-26d8-4a2f-ba75-a784fe482cd4" height="40" alt="Magic logo"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/b5217879-ee41-421e-9543-2458e2511da8" height="40" alt="Ngspice logo"/>
+  <img width="12" />  
+  <img src="https://github.com/user-attachments/assets/52c4ec00-1623-4a4a-bda7-4768be2d9ddd" height="40" alt="Cadence logo" />
   <img width="12" />
   <img width="12" />
 </div>
