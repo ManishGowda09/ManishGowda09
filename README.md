@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e766fe92-f233-4783-a255-988a261ec67f" height="40" alt="klayout logo"/>
+  <img width="12" />
   <img width="12" />
 </div>
 
